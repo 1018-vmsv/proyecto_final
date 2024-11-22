@@ -129,4 +129,9 @@ tbody tr:hover {
   background-color: #9c3434;
 }
 
+#exampleModal1{
 
+  display: block;
+  justify-content: center;
+  
+}
